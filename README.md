@@ -132,6 +132,7 @@ Designed for deep-dive exploration and insights:
 
 ---
 
+🔗 **Live Power BI Dashboard**: [View Report](https://app.powerbi.com/view?r=eyJrIjoiZjQwMTExZGItM2FmNS00ZTVjLWI4NjktNjI4MDA3OThlMjAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🎓 What I Learned
 
