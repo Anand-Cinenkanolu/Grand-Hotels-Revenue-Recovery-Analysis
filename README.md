@@ -92,19 +92,19 @@ Designed for deep-dive exploration and insights:
 
 | Table         | Key Fields                        |
 |---------------|------------------------------------|
-| `dim_date`    | date, week, month, day_type       |
-| `dim_hotels`  | property_id, city, property_name  |
-| `dim_rooms`   | room_id, room_class               |
-| `dim_platforms` | platform_id, platform_name      |
+| `Dim_Date`    | date, week, month, day_type       |
+| `Dim_Hotels`  | property_id, city, property_name  |
+| `Dim_Rooms`   | room_id, room_class               |
+| `Dim_Platforms` | platform_id, platform_name      |
 
 ### 🔹 Fact Tables
 
 | Table               | Description                                        |
 |---------------------|----------------------------------------------------|
-| `fact_bookings`     | Booking details (dates, guests, revenue, room info) |
-| `fact_aggregated`   | Daily room capacity and booking success rates       |
+| `Fact_Bookings`     | Booking details (dates, guests, revenue, room info) |
+| `Fact_Aggregated`   | Daily room capacity and booking success rates       |
 
-📌 Star schema implemented for clean filtering and scalability.  
+📌 Snowflake schema implemented for clean filtering and scalability.  
 
 ![Data Model](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Data%20Modeling.png)
 
