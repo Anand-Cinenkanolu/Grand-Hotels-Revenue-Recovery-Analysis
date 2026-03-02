@@ -8,7 +8,7 @@
 
 AtliQ Grand, a luxury hotel chain in India, faced revenue dips and high cancellations across its properties. This project builds an interactive Power BI dashboard to uncover insights into booking trends, room performance, cancellation impact, and strategic revenue metrics — designed to support better pricing, marketing, and occupancy decisions.
 
-🔗 **Live Power BI Dashboard**: [View Report](https://app.powerbi.com/view?r=eyJrIjoiNzc2NzUwMTUtZTEzYi00MGI3LTg2MDktZjUyNWFlYTA1YTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 **Live Power BI Dashboard**: [View Report](https://app.powerbi.com/view?r=eyJrIjoiMjNmNGIwMDMtZDk5ZS00NDVhLTk3NzEtYWNiNDYyYjFiOWMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ---
@@ -49,7 +49,7 @@ Here’s how you can navigate and interact with it:
 -----------
 
 ## Home / Landing Page
-![Home Page](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Home%20page.png)
+![Home Page](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Home%20Page.jpg)
 
 ## 📊 Dashboard Previews
 
@@ -64,7 +64,7 @@ Quick snapshot of business health across all hotel properties:
 - **Property leaderboard** with detailed KPIs: Revenue, RevPAR, Occupancy %, ADR, Booking Nights, Ratings, and Cancellation %
 
 This page gives leadership the 360° pulse of hotel performance across all dimensions.
-![Overview View](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Overview.png)
+![Overview View](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/OverView.jpg)
 
 ---
 
@@ -78,7 +78,7 @@ Designed for deep-dive exploration and insights:
 - **Occupancy % by day type** – contrast between weekday vs weekend traffic
 - **Revenue Trend by Month** – track monthly growth and revenue curve
 
-![Executive View](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Executive%20View.png)
+![Executive View](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Executive%20View.jpg)
 
 ### Data Modeling
 
@@ -132,7 +132,7 @@ Designed for deep-dive exploration and insights:
 
 ---
 
-🔗 **Live Power BI Dashboard**: [View Report](https://app.powerbi.com/view?r=eyJrIjoiNzc2NzUwMTUtZTEzYi00MGI3LTg2MDktZjUyNWFlYTA1YTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 **Live Power BI Dashboard**: [View Report](https://app.powerbi.com/view?r=eyJrIjoiMjNmNGIwMDMtZDk5ZS00NDVhLTk3NzEtYWNiNDYyYjFiOWMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🎓 What I Learned
 
