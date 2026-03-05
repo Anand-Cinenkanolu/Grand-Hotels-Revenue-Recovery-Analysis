@@ -1,4 +1,4 @@
-# 🏨 Hospitality Revenue Intelligence Dashboard of Grand Hotel's 
+## 🏨 Hospitality Revenue Intelligence Dashboard of Grand Hotel's 
 
 📊 **Data-Driven Insights for Strategic Hotel Revenue Optimization**
 
